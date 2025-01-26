@@ -1,6 +1,5 @@
-
-- 👋 Hi, I’m Prarthana Samal 
-- 🌱 I’m currently learning Flask, along with back-end development concepts, REST APIs, and database integration.
+## 👋 Hi, I’m Prarthana Samal 
+🌱 I’m currently learning Flask, along with back-end development concepts, REST APIs, and database integration.
 
 📫 Contact Me:
 - __Email__: prarthanasamal@gmail.com
@@ -14,3 +13,4 @@
 ## 🛠️ Development Skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
